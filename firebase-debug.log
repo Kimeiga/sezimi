@@ -1,0 +1,22 @@
+[debug] [2021-10-21T18:17:31.923Z] ----------------------------------------------------------------------
+[debug] [2021-10-21T18:17:31.925Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2021-10-21T18:17:31.925Z] CLI Version:   9.7.0
+[debug] [2021-10-21T18:17:31.926Z] Platform:      darwin
+[debug] [2021-10-21T18:17:31.926Z] Node Version:  v14.15.5
+[debug] [2021-10-21T18:17:31.927Z] Time:          Thu Oct 21 2021 11:17:31 GMT-0700 (Pacific Daylight Time)
+[debug] [2021-10-21T18:17:31.927Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-21T18:17:31.930Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-10-21T18:17:31.953Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-21T18:17:31.953Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/hakan/Github/twittre
+
